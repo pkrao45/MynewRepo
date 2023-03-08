@@ -29,9 +29,13 @@ WebUI.setText(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_AddLic
 WebUI.setEncryptedText(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_AddLicense_add_delete/Page_OrangeHRM/input_Password_password'), 
     'hUKwJTbofgPU9eVlw/CnDQ==')
 
+WebUI.takeElementScreenshotAsCheckpoint('LoginPage check', findTestObject('OHRM_add_delete/OrangeHRM_AddLicense_add_delete/Page_OrangeHRM/button_Login'))
+
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_AddLicense_add_delete/Page_OrangeHRM/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_AddLicense_add_delete/Page_OrangeHRM/a_Admin'))
+
+WebUI.takeScreenshotAsCheckpoint('After Login Page')
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_AddLicense_add_delete/Page_OrangeHRM/li_Qualifications'))
 

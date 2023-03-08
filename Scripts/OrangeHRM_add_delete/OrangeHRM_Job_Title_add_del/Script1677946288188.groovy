@@ -29,6 +29,8 @@ WebUI.setText(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Job_Ti
 WebUI.setEncryptedText(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Job_Title_add_del/Page_OrangeHRM/input_Password_password'), 
     'hUKwJTbofgPU9eVlw/CnDQ==')
 
+WebUI.takeElementScreenshotAsCheckpoint('LoginPage Check', findTestObject('OHRM_add_delete/OrangeHRM_Job_Title_add_del/Page_OrangeHRM/button_Login'))
+
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Job_Title_add_del/Page_OrangeHRM/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Job_Title_add_del/Page_OrangeHRM/a_Admin'))
@@ -38,6 +40,8 @@ WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Job_Titl
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Job_Title_add_del/Page_OrangeHRM/li_Job Titles'))
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Job_Title_add_del/Page_OrangeHRM/button_Add'))
+
+WebUI.takeScreenshotAsCheckpoint('After login page')
 
 WebUI.setText(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Job_Title_add_del/Page_OrangeHRM/input_Job Title_oxd-input oxd-input--focus'), 
     'Aaaaa1')

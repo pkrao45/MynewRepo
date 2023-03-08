@@ -23,18 +23,23 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/aut
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Educ_add_delete/Page_OrangeHRM/input_Username_username'), 'Admin')
+WebUI.setText(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Educ_add_delete/Page_OrangeHRM/input_Username_username'), 
+    'Admin')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Educ_add_delete/Page_OrangeHRM/input_Password_password'), 
     'hUKwJTbofgPU9eVlw/CnDQ==')
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Educ_add_delete/Page_OrangeHRM/button_Login'))
 
+WebUI.takeElementScreenshotAsCheckpoint('LoginPageCheck', findTestObject('OHRM_add_delete/OrangeHRM_Educ_add_delete/Page_OrangeHRM/button_Login'))
+
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Educ_add_delete/Page_OrangeHRM/a_Admin'))
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Educ_add_delete/Page_OrangeHRM/li_Qualifications'))
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Educ_add_delete/Page_OrangeHRM/li_Education'))
+
+WebUI.takeScreenshotAsCheckpoint('After loginPage')
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Educ_add_delete/Page_OrangeHRM/button_Add'))
 

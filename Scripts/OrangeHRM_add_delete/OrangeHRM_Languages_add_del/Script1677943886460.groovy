@@ -31,6 +31,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/OHRM_add_delete/OrangeH
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Languages_add_del/Page_OrangeHRM/button_Login'))
 
+WebUI.takeElementScreenshotAsCheckpoint('LoginPage Check', findTestObject('OHRM_add_delete/OrangeHRM_Languages_add_del/Page_OrangeHRM/button_Login'))
+
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Languages_add_del/Page_OrangeHRM/a_Admin'))
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Languages_add_del/Page_OrangeHRM/li_Qualifications'))
@@ -41,6 +43,8 @@ WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Language
 
 WebUI.setText(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Languages_add_del/Page_OrangeHRM/input_Name_oxd-input oxd-input--focus'), 
     'Arabic1')
+
+WebUI.takeScreenshotAsCheckpoint('After login page')
 
 WebUI.click(findTestObject('Object Repository/OHRM_add_delete/OrangeHRM_Languages_add_del/Page_OrangeHRM/button_Save'))
 
