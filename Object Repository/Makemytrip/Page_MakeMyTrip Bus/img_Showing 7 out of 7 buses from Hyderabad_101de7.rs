@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Showing 7 out of 7 buses from Hyderabad_101de7</name>
+   <tag></tag>
+   <elementGuidId>ed16f3b3-7c4c-4b58-abbb-7f36dd56f217</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.primoCloseIcon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='busList']/div/div/img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4ee344d3-d2a9-4360-9725-69c6fdda361a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primoCloseIcon</value>
+      <webElementGuid>f7116e6e-a2cd-4cea-971b-0604a274b439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//jsak.mmtcdn.com/bus_cdn_dt/static/media/ic_close_black.f8e2b843.svg</value>
+      <webElementGuid>c840318c-d07f-49c7-8d2d-50dae7da8340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;busList&quot;)/div[@class=&quot;sc-frDJqD hJXZrk&quot;]/div[@class=&quot;primo-popup-content&quot;]/img[@class=&quot;primoCloseIcon&quot;]</value>
+      <webElementGuid>4c3d3e24-d1f4-4807-9fbc-4e6c44954712</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='busList']/div/div/img[2]</value>
+      <webElementGuid>ca159e4f-63cc-479b-8070-69cf98fadbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img[2]</value>
+      <webElementGuid>da1a8b88-bdfa-427d-9571-3ba4629cc36c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//jsak.mmtcdn.com/bus_cdn_dt/static/media/ic_close_black.f8e2b843.svg']</value>
+      <webElementGuid>932b4aee-cf94-4e0c-8ff8-bbb90d9f2ad9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

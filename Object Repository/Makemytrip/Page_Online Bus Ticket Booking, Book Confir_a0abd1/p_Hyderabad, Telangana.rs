@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Hyderabad, Telangana</name>
+   <tag></tag>
+   <elementGuidId>d08c01ee-29b2-4294-82c9-7563e1f203e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.searchedResult.font14.darkText</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='react-autowhatever-1-section-0-item-0']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b13b1755-2c04-498c-b208-3411748581b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>searchedResult font14 darkText</value>
+      <webElementGuid>44acf7f3-25e4-4ee4-a3cc-f2db63b55fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hyderabad, Telangana</value>
+      <webElementGuid>935f4fa6-85fa-4666-bfca-ea37530b0fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-autowhatever-1-section-0-item-0&quot;)/div[@class=&quot;makeFlex column&quot;]/p[@class=&quot;searchedResult font14 darkText&quot;]</value>
+      <webElementGuid>fd4936c3-0765-43c3-a520-6dbc23ddd0dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='react-autowhatever-1-section-0-item-0']/div/p</value>
+      <webElementGuid>ccd0177f-cc7e-45b7-91d1-bb3e63ce8e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/following::p[3]</value>
+      <webElementGuid>db409cc8-1745-4651-8375-96c16c79d740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travelling with a group? Hire a bus.'])[1]/following::p[3]</value>
+      <webElementGuid>73ffb772-2b7a-4f33-998c-7c34c57d5ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hyderabad Airport, Telangana'])[1]/preceding::p[1]</value>
+      <webElementGuid>bffbfac0-8ec1-4816-9bf4-7e4651a7dee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/ul/li/div/p</value>
+      <webElementGuid>301b050a-65ec-426b-b6a2-fc74bd24090f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Hyderabad, Telangana' or . = 'Hyderabad, Telangana')]</value>
+      <webElementGuid>eae5631c-da77-45eb-bcce-1b338012adfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

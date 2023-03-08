@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>New Data Checkpoint1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Multiple Checkout</source-url>
+   </source-info>
+   <taken-date>2023-03-08T16:43:41.81</taken-date>
+   <column-names>
+      <column-name>firstName</column-name>
+      <column-name>lastName</column-name>
+      <column-name>companyName</column-name>
+      <column-name>country</column-name>
+      <column-name>address</column-name>
+      <column-name>city</column-name>
+      <column-name>postCode</column-name>
+      <column-name>Phone</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "katalon",
+      "checked": false
+    },
+    {
+      "value": "customer",
+      "checked": false
+    },
+    {
+      "value": "KMS",
+      "checked": false
+    },
+    {
+      "value": "Vietnam",
+      "checked": false
+    },
+    {
+      "value": "290 Nam Ky Khoi Nghia",
+      "checked": false
+    },
+    {
+      "value": "HCM",
+      "checked": false
+    },
+    {
+      "value": "70000",
+      "checked": false
+    },
+    {
+      "value": "0123456789",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "katalon",
+      "checked": false
+    },
+    {
+      "value": "customer",
+      "checked": false
+    },
+    {
+      "value": "TDTU",
+      "checked": false
+    },
+    {
+      "value": "Vietnam",
+      "checked": false
+    },
+    {
+      "value": "19 Nguyen Huu Tho",
+      "checked": false
+    },
+    {
+      "value": "HCM",
+      "checked": false
+    },
+    {
+      "value": "70000",
+      "checked": false
+    },
+    {
+      "value": "0820200202",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "katalon",
+      "checked": false
+    },
+    {
+      "value": "customer",
+      "checked": false
+    },
+    {
+      "value": "BKU",
+      "checked": false
+    },
+    {
+      "value": "Vietnam",
+      "checked": false
+    },
+    {
+      "value": "100 Nguyen Cong Tru",
+      "checked": false
+    },
+    {
+      "value": "HCM",
+      "checked": false
+    },
+    {
+      "value": "70000",
+      "checked": false
+    },
+    {
+      "value": "0288229292",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "katalon",
+      "checked": false
+    },
+    {
+      "value": "customer",
+      "checked": false
+    },
+    {
+      "value": "DXC",
+      "checked": false
+    },
+    {
+      "value": "Vietnam",
+      "checked": false
+    },
+    {
+      "value": "628 Nguyen Hai Phong",
+      "checked": false
+    },
+    {
+      "value": "HCM",
+      "checked": false
+    },
+    {
+      "value": "70000",
+      "checked": false
+    },
+    {
+      "value": "0289928289",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

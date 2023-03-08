@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select Seats</name>
+   <tag></tag>
+   <elementGuidId>fe604574-6873-4874-ae04-3bfdd23a315d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sc-jKJlTe.bPClQZ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bus_39_MMTCC1319_MMTCC1744_30-04-2023_1000004045027932671']/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>41dc8e50-9c0a-4797-b7cd-4fcc784bbed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jKJlTe bPClQZ</value>
+      <webElementGuid>f1bc4925-445b-4513-a54a-08d5c3c303a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>select-seats</value>
+      <webElementGuid>4fdd3463-c0f9-4607-a65c-9070b700f6c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Seats</value>
+      <webElementGuid>2a252353-098e-4852-9800-2a1564fac7b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bus_39_MMTCC1319_MMTCC1744_30-04-2023_1000004045027932671&quot;)/div[@class=&quot;makeFlex&quot;]/div[@class=&quot;price-section&quot;]/a[@class=&quot;sc-jKJlTe bPClQZ&quot;]</value>
+      <webElementGuid>8a384bb0-6f96-4906-977e-4c52b56eb8e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bus_39_MMTCC1319_MMTCC1744_30-04-2023_1000004045027932671']/div/div[2]/a</value>
+      <webElementGuid>2ee8fabb-7bd3-4efa-aeea-4c829dad2564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Select Seats')]</value>
+      <webElementGuid>60919204-d4fe-4825-8fc7-2506187e0b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='starting from'])[1]/following::a[1]</value>
+      <webElementGuid>65d9703f-2ac4-4b32-b56f-f0bf9232c284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviews'])[1]/following::a[1]</value>
+      <webElementGuid>68b03e54-1acc-445c-9bdb-9b485f9a5ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mahadev Travels'])[2]/preceding::a[1]</value>
+      <webElementGuid>89b9b3f9-c8b1-45ee-a7f1-3c9856115d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Seats']/parent::*</value>
+      <webElementGuid>9ca2f640-7183-4e45-a474-c198bd79079e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>70a498a6-fca8-412e-b590-7b282f653d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Select Seats' or . = 'Select Seats')]</value>
+      <webElementGuid>f3c862fb-abd6-452e-9b85-cf97be86c9e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
